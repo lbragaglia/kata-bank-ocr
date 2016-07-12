@@ -1,0 +1,3 @@
+[submodule "kata-bank-ocr-js"]
+	path = kata-bank-ocr-js
+	url = https://github.com/lbragaglia/kata-bank-ocr-js.git
